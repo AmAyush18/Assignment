@@ -7,15 +7,15 @@ Task Instructions: Implement the stiky feature in whiteboard app
 
 Solution [Ayush Dwivedi] - Added Sticky Note Feature
 
-[![Live Demo Video](https://drive.google.com/file/d/1voBuwFQBR9ceyVWdHUmL1vBwV0z35pQX/view?usp=sharing)]
+[![Live Demo Video]()(https://drive.google.com/file/d/1voBuwFQBR9ceyVWdHUmL1vBwV0z35pQX/view?usp=sharing)]
 
 ## Installation
-- Clone the repository: git clone https://github.com/your-username/your-repo.git
-- Navigate to the project directory: cd your-repo
+- Clone the repository: git clone https://github.com/AmAyush18/Assignment.git
+- Navigate to the project directory: cd Assignment
 - Install dependencies: npm install
 
 ## Usage
 - Run the application: npm start
-- Open your browser and go to http://localhost:3000
+- Open your browser and go to http://localhost:3000/WhiteBoardWeb
 
 Let's Create Some Sticky Notes 🎉
